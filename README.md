@@ -35,6 +35,6 @@ The common way of presenting clues is `dice, 3` which indicates that there are 3
 ## About Codenames and this adaptation
 This task is adapted from the popular board game, [Codenames](https://en.wikipedia.org/wiki/Codenames_(board_game)). 
 
-The premise of the game is that there is a board of words, e.g. `cat`, `tree`, `dog`. There are then clues corresponding to a subset of words on the board, e.g. `pet, 2` where *pet* refers to *2* words on the board and `plant, 1` where *plant* refers to *1* word on the board.
+The premise of the game is that there is a board of words, e.g. `cat`, `tree`, `dog`. There are then clues corresponding to a subset of words on the board, e.g. `pet, 2` where `pet` refers to `2` words on the board and `plant, 1` where `plant` refers to `1` word on the board.
 
 The players do not know which are the correct words and have to decide on which words to guess. In this adaptation, each word has only one clue. In traditional Codenames, words can have many clues.
