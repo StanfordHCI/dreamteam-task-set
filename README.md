@@ -33,7 +33,7 @@ The board itself does not include the clues, and is comprised of the words `proc
 The common way of presenting clues is `dice, 3` which indicates that there are 3 words on the board (`processor`, `dots`, `chance`) corresponding to the clue `dice`.
 
 ## About Codenames and this adaptation
-This task is adapted from the popular board game, [Codenames](https://en.wikipedia.org/wiki/Codenames_(board_game)). 
+This task is adapted from the popular board game [Codenames](https://en.wikipedia.org/wiki/Codenames_(board_game)). 
 
 The premise of the game is that there is a board of words, e.g. `cat`, `tree`, `dog`. There are then clues corresponding to a subset of words on the board, e.g. `pet, 2` where `pet` refers to `2` words on the board and `plant, 1` where `plant` refers to `1` word on the board.
 
