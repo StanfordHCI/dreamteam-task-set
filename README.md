@@ -1,4 +1,4 @@
-# Codenames task set for DreamTeam (CHI 2018)
+# DreamTeam (CHI 2018) Codenames task set 
 
 This is the Codenames task set used for DreamTeam, a system introduced in the CHI 2018 paper [*In Search of the Dream Team: Temporally Constrained Multi-Armed Bandits for Identifying Effective Team Structures*](http://hci.stanford.edu/publications/2018/dreamteam/zhou_sharon_dreamteam.pdf) (Sharon Zhou, Melissa Valentine, Michael Bernstein). 
 
