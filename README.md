@@ -28,7 +28,7 @@ There are 11 game boards in a list of dictionary objects. Each board is enclosed
 
 Here, `dice`, `invalid`, and `compress` are clues used for the board. 
 
-The board itself does not include the clues, and is comprised of the words `processor`, `dots`, `chance`, `null`, `patient`, `swelling`, and `encode` --- ideally scrambled in random order. 
+The board itself does not include the clues, and is comprised of the words `processor`, `dots`, `chance`, `null`, `patient`, `swelling`, and `encode`. Ideally, these are scrambled in random order. 
 
 The common way of presenting clues is `dice, 3` which indicates that there are 3 words on the board (`processor`, `dots`, `chance`) corresponding to the clue `dice`.
 
