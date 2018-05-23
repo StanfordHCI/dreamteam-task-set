@@ -5,7 +5,8 @@ This is the Codenames task set used for DreamTeam, a system introduced in the CH
 ## Using this task set
 There are 11 game boards. Each board is enclosed in a dictionary object, e.g. 
 
-```{
+```
+{
     "dice":
         [
             "processor",
@@ -22,7 +23,8 @@ There are 11 game boards. Each board is enclosed in a dictionary object, e.g.
             "swelling",
             "encode"
         ]
-}```
+}
+```
 
 Here, "dice", "invalid", and "compress" are clues used for the board. The board itself does not include the clues, and is comprised of the words "processor", "dots", "chance", "null", "patient", "swelling", and "encode", ideally scrambled in random order. 
 
